@@ -1,207 +1,96 @@
 {
-   "info":"Terraria Player Mods",
-   "version":3,
-   "total":20,
+   "info":"Terraria World Maps",
+   "total":9,
    "result":[
       {
          "id":1,
-         "title":"My Persian",
-         "thumbnail":"https://livemovies.club//terraria/Players/my_persian_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/my_persian_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/my_persian.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is my character he has the legendary zenith 999 mithril ingots and more. I confess I took some things from the save editor, I hope this does not prevent you from downloading it."
+         "title":"Traitorous Crown",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/traitorous_crown_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/traitorous_crown_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/traitorous_crown.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"The map, with all the NPCs, including the city slugs, in short, please don’t judge my map strictly, I still tried, in order to lay out this map I had to take 15 hours of my time, but a little ) but it's worth it"
       },
       {
          "id":2,
-         "title":"Persian made for building",
-         "thumbnail":"https://livemovies.club//terraria/Players/persian_made_for_building_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/persian_made_for_building_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/persian_made_for_building.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A character from terraria for which I create a world that I have already released. This character has expensive things, but there is no money. Therefore, it is clear that I am a boh by profession and a sucker in life."
+         "title":"Card to Fur Bosses",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"The map before mechanical bosses played survival classic, there are chests with items used dupe with chests to dupe ingots and materials"
       },
       {
          "id":3,
-         "title":"You Name It",
-         "thumbnail":"https://livemovies.club//terraria/Players/you_name_it_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/you_name_it_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/you_name_it.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello everyone :1\nin this Persian there are 3 classes at once: warrior, shooter and summoner. (to switch to the armor menu, click the icon with a person and choose)\nthere are axes for each class (wings, terra-workers and decorations only on the warrior :0 ) all items are reforged (some items and axes are not forged on <<legendary>> or <<+ 4>> :[ ) there are all weapons for classes: whip with the sword of the Empress, zenith.\nthere is a bag of void, laser drill, stardust pickaxe.\ntried for 2 months.\n\nHave a nice game everyone :]"
+         "title":"Comics",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/comics_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/comics_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/comics.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This world has: mini games, comics, beautiful buildings, etc.\nUpdate: at home\nPersians\nNPC\nComics\nDevices\nAnd added tests.\nBosses will be killed but for now I'm building and wondering how the Red Moon can appear so often"
       },
       {
          "id":4,
-         "title":"Wendy",
-         "thumbnail":"https://livemovies.club//terraria/Players/wendy_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/wendy_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/wendy.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"As I wrote, there will be problems!\nI didn't know how to do\nperfect white eyes\nWho knows!\nhow to get perfect white eyes\nIf it doesn't look like it, then it is...\ncomment on this character."
+         "title":"Defeated Lunard and Flights",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"On the map, lunard was defeated, the map itself was redone, I added some things and all the buildings were taken from another map. There are flaws, if you need anything, write a comment. I took the fragments of the towers from the admin character screenshots on the developer"
       },
       {
          "id":5,
-         "title":"Wilson",
-         "thumbnail":"https://livemovies.club//terraria/Players/wilson_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/wilson_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/wilson.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Wilson, why is he?\nIts easy to make!\nI could do Wendy but I was too lazy ...\nIt can be made, as there are all the materials for creating a character.\nBut there will be problems with the eyes, straight white-white, I can’t do it.\nBut there is a great idea!\nCreated by Wendy."
+         "title":"Guy Lilies",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/guy_lilies_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/guy_lilies_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/guy_lilies.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This map is cool, there is a zenith, a super Kirk and so far cubits bosses skeleton prime, the eye of Cthulhu, twins, the Destroyer, the king of slugs, the queen of slugs, the queen of bees, and the devourer of worlds, the wall of flesh, skeletonon."
       },
       {
          "id":6,
-         "title":"Ezio Assasin Creed",
-         "thumbnail":"https://livemovies.club//terraria/Players/ezio_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/ezio_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/ezio.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Ezio.?\nI thought it was Altair!\nTried to make it as similar as possible\nAs you can see it worked!\nBut not without help╮\u2060(\u2060╯\u2060_\u2060╰\u2060)\u2060╭\nI didn't want to download it at all(\u2060⌐\u2060■\u2060-\u2060■\u2060)\nmade a month agoಡ\u2060 ͜\u2060 \u2060ʖ\u2060 \u2060ಡ\nIf you don't like it, write immediately!\nI'll probably send my card later."
+         "title":"Excellent Hostel",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/excellent_hostel_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/excellent_hostel_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/excellent_hostel.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Everyone, this is a great dorm map with many nips, another gift in chests, why am I writing this? And in order to lay out this card, have fun) And by the way, in one chest are the legs of the moon lord"
       },
       {
          "id":7,
-         "title":"Obi Wan Kenobi",
-         "thumbnail":"https://livemovies.club//terraria/Players/obi_wan_kenobi_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/obi_wan_kenobi_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/obi_wan_kenobi.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This character was not created for the passage, but if you are risky, then I advise you to pass on the master ...\n୧\u2060(\u2060＾\u2060 \u2060〰\u2060 \u2060＾\u2060)\u2060୨\nOr maybe on a trip!\n\nTried to pass on the master\ncould not..."
+         "title":"Top Items",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/top_items_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/top_items_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/top_items.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is a map with top items for all classes, there is a weapon, armor, wings, a golden fishing rod and a net, there are also 999 defender medals, there is also a wand of discord good luck on the map"
       },
       {
          "id":8,
-         "title":"Shin",
-         "thumbnail":"https://livemovies.club//terraria/Players/shin_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/shin_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/shin.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Shin, created for the passage of the game. This given character, you may like it, if, of course, you understand how to play it. You can play in all modes, from travel to master."
+         "title":"Scary Animal Mouth",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/scary_animal_mouth.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Just a map in order to build a continuation, take any weapons and survive!\nAuthor:Recordix\nMy telegram channel:\uD83D\uDC4DMaps PC simulator\uD83D\uDC4D\nYoutube channel:Recordix pc\nMy twitch: recordix_1\nThis map has ZENITH, LEGENDARY FURY AND MANY OTHER SWORDS."
       },
       {
          "id":9,
-         "title":"Laugh",
-         "thumbnail":"https://livemovies.club//terraria/Players/laugh_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/laugh_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/laugh.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A good person who depends on terraria, as the youtuber once said. This is my first time passing in an expert. I will also lay out the world so that you understand how I tried?"
-      },
-      {
-         "id":10,
-         "title":"You",
-         "thumbnail":"https://livemovies.club//terraria/Players/you_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/you_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/you.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"For this character, I went through the world called GG, you can also download it. I spent 40 hours. An expert world and character will be released soon if you like what I do write comments"
-      },
-      {
-         "id":11,
-         "title":"Top 1 Persian",
-         "thumbnail":"https://livemovies.club//terraria/Players/top_1_persian_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/top_1_persian_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/top_1_persian.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello, today I will tell you that this Persian was top until the update came out and this Persian died. And he became a legend before update 1.4.4.4 and everything should be fine"
-      },
-      {
-         "id":12,
-         "title":"Joseph Joestar",
-         "thumbnail":"https://livemovies.club//terraria/Players/joseph_joestar_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/joseph_joestar_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/joseph_joestar.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Character Joseph Joestar (young) from Part 2 of the JoJo's Bizarre Adventure Manga. Has a set of solar flare armor, as well as tools.\nIf you want me to add or remove something, etc., then write in the reviews"
-      },
-      {
-         "id":13,
-         "title":"Developer",
-         "thumbnail":"https://livemovies.club//terraria/Players/developer_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/developer_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/developer.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A great and powerful developer who has complete control over the Terraria universe.\nFrom the chips of this character:\n1. All duplication items are open\n2. Has 3 different sets of armor (I-Maximum, II-Medium, III-Minimum)\n3. Has the best Terraria weapons in stock\n4. A void bag that has additional items.\n5. When changing the difficulty level, additional accessories are added - (Expert Nimbus, Master Glittering Cloak, Epic Music)\nThe supported version is 1.4.4 and above."
-      },
-      {
-         "id":14,
-         "title":"Mega Warrior",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_warrior_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_warrior_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_warrior.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"If you are too lazy to level up your warrior character, then please keep it, a very cool leveling warrior who can tear the Moon Lord to shreds with the help of the Zenith that you will have, if you want, you can shoot cats that will skillfully destroy almost all bosses, but you can destroy them with a wave of earth from the Earth Blade, and if you want you can shoot them with stars from the sky, and also the same yo-yo will destroy all enemies in your path."
-      },
-      {
-         "id":15,
-         "title":"True Destroyer of Evil",
-         "thumbnail":"https://livemovies.club//terraria/Players/true_destroyer_of_evil_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/true_destroyer_of_evil_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/true_destroyer_of_evil.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello again, here is the True Destroyer of Evil. He remembers all the beginning of his adventure and endless continuation he wanders all over the worlds in search of evil to destroy him, during his adventure he became too strong he made a titanium set, terra boots and all cool weapons now he is merciless and will help everyone who is in trouble ."
-      },
-      {
-         "id":16,
-         "title":"Nedo Super Mage",
-         "thumbnail":"https://livemovies.club//terraria/Players/nedo_super_mage_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/nedo_super_mage_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/nedo_super_mage.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello, I'm here for the first time and I created a character in general, everything is modest, what can you do, I'm waiting for an answer, you can also suggest what to add. The screenshot shows that there is a razor typhoon, a hammer drill, and the last prism. From accessories bracelets of wind, regeneration, mana, UFO mount, the whole titanium set."
-      },
-      {
-         "id":17,
-         "title":"Assassin of darkness",
-         "thumbnail":"https://livemovies.club//terraria/Players/assassin_of_darkness_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/assassin_of_darkness_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/assassin_of_darkness.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is the killer of darkness. It has features:\n- Hidden at night\n-There are useful weapons\n-There are hidden equipment\n- Completely pumped\n-There are 2 presets\nThe character goes to version 1.4.4.5 and higher. I did it on android 12. In short, URINE THEM ALL IN THE DARKNESS!!!!!!!"
-      },
-      {
-         "id":18,
-         "title":"Mega Shooter",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_shooter_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_shooter_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_shooter.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is Mega Shooter. He has: sniper rifle, P.K.D., whirlwind cannon, venus, whirlwind armor and cool shooter accessories, etc. He also has a witch's broom mount and is the last of the cool characters."
-      },
-      {
-         "id":19,
-         "title":"Mega Warrior 2",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_warrior_2_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_warrior_2_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_warrior_2.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is Mega Warrior. He has: dawn, solar eruption, zenith, flower strike, creepy glaive, meowmur, flying dragon, terrarian, etc. He also has solar flare armor and cool accessories."
-      },
-      {
-         "id":20,
-         "title":"Mega Mage 2",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_mage_2_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_mage_2_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_mage_2.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is Mega Mage. It has: last prism, lunar flare, nebula flame, dark red, etc. He also has solar flare armor and cool accessories. In short, I advise."
+         "title":"100% Bestiary",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_t.jpg",
+         "screenshot":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_ss.jpg",
+         "fileurl":"https://livemovies.club/terraria/Worlds/100_percent_bestiary.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"By downloading this map, you will receive a 100% bistiary, a starting house in the form of a tower and a multi-storey building with NPCs. Plus something else interesting"
       }
    ]
 }
