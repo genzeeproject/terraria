@@ -1,12 +1,12 @@
 {
    "info":"Terraria World Maps",
-   "total":9,
+   "total":51,
    "result":[
       {
          "id":1,
          "title":"Traitorous Crown",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/traitorous_crown_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/traitorous_crown_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/traitorous_crown_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/traitorous_crown_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/traitorous_crown.zip",
          "type":"Map",
          "extension":"wld",
@@ -15,8 +15,8 @@
       {
          "id":2,
          "title":"Card to Fur Bosses",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/card_to_fur_bosses.zip",
          "type":"Map",
          "extension":"wld",
@@ -25,8 +25,8 @@
       {
          "id":3,
          "title":"Comics",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/comics_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/comics_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/comics_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/comics_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/comics.zip",
          "type":"Map",
          "extension":"wld",
@@ -35,8 +35,8 @@
       {
          "id":4,
          "title":"Defeated Lunard and Flights",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/defeated_lunard_and_flights.zip",
          "type":"Map",
          "extension":"wld",
@@ -45,8 +45,8 @@
       {
          "id":5,
          "title":"Guy Lilies",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/guy_lilies_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/guy_lilies_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/guy_lilies_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/guy_lilies_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/guy_lilies.zip",
          "type":"Map",
          "extension":"wld",
@@ -55,8 +55,8 @@
       {
          "id":6,
          "title":"Excellent Hostel",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/excellent_hostel_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/excellent_hostel_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/excellent_hostel_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/excellent_hostel_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/excellent_hostel.zip",
          "type":"Map",
          "extension":"wld",
@@ -65,8 +65,8 @@
       {
          "id":7,
          "title":"Top Items",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/top_items_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/top_items_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/top_items_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/top_items_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/top_items.zip",
          "type":"Map",
          "extension":"wld",
@@ -75,8 +75,8 @@
       {
          "id":8,
          "title":"Scary Animal Mouth",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/scary_animal_mouth_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/scary_animal_mouth.zip",
          "type":"Map",
          "extension":"wld",
@@ -85,12 +85,432 @@
       {
          "id":9,
          "title":"100% Bestiary",
-         "thumbnail":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_t.jpg",
-         "screenshot":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_ss.jpg",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/100_percent_bestiary_ss.webp",
          "fileurl":"https://livemovies.club/terraria/Worlds/100_percent_bestiary.zip",
          "type":"Map",
          "extension":"wld",
          "description":"By downloading this map, you will receive a 100% bistiary, a starting house in the form of a tower and a multi-storey building with NPCs. Plus something else interesting"
+      },
+      {
+         "id":10,
+         "title":"Terraria Vanguard",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/terraria_vanguard_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/terraria_vanguard_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/terraria_vanguard.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Map with a huge tower for Terraria. If you like large multi-story buildings, then this map will definitely suit you. It can be used as a starting base!"
+      },
+      {
+         "id":11,
+         "title":"Lower Mausoleum",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/lower_mausoleum_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/lower_mausoleum_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/lower_mausoleum.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Enjoy. You can carry res. Sorry, I didn't make a screenshot. Please don't insult the card."
+      },
+      {
+         "id":12,
+         "title":"Starting house",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/starting_house_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/starting_house_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/starting_house.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is an initial survival house for one or four people in the house there is a blood working area a chest with initial weapons for all classes and four more boxes on the map I didn’t kill a single boss nothing I didn’t touch anything luck on the map"
+      },
+      {
+         "id":13,
+         "title":"Battle of the Miners",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/battle_of_the_miners_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/battle_of_the_miners_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/battle_of_the_miners.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Welcome to my strikend map.\nThis map is for 1v1.\nAnd there are rules:\n1. Don't break blocks\n2. Don't take everything in duplication\n3. Create a new character\nIn short, see for yourself and master yourself with a friend\nThis is the first card, so do not judge strictly!"
+      },
+      {
+         "id":14,
+         "title":"Optimistic slope of the law",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/optimistic_slope_of_the_law_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/optimistic_slope_of_the_law_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/optimistic_slope_of_the_law.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"In short, this is an ordinary card with the most important thing, the world is good but ... Not\ncompleted, just play and have fun, and such a world is generally suitable for beginners, as it is for me)"
+      },
+      {
+         "id":15,
+         "title":"Passed world",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/passed_world_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/passed_world_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/passed_world.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is my almost completed world in it, I killed all the bosses except for the lunar, but it has all the nips except for the truffle (I created the mushroom biome and the truffle came with the princess, I broke the biome and the truffle dies and does not come) here I made a greenhouse hall of fame with all the relics and trophies as well as the world's three world evils 2 of them I separated a huge new bestiary filled to 90℅!!! 1 home slug of the mysterious slug is missing and the world is also created on the power of the constant (for beginners: this world has a hunger mechanic"
+      },
+      {
+         "id":16,
+         "title":"Green square of disgust",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/green_square_of_disgust_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/green_square_of_disgust_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/green_square_of_disgust.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"I did not think about the creation of the world and its name, because I just played,\nI am not an architect or a designer, so do not judge, I promised to upload the world in which I PLAYED, I just wanted to show how I went through the game on the master,\nYes, and the pictures, this is the same character on which I played the game.\nCool???"
+      },
+      {
+         "id":17,
+         "title":"Game Town v2",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/game_town_v2_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/game_town_v2_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/game_town_v2.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"The city of flowers is just a place with people and things. If you can't see part of the world, then you need to put on the glasses in the Chest near the door of the first floor. Main building!!!"
+      },
+      {
+         "id":18,
+         "title":"Endless Survival",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/endless_survival_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/endless_survival_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/endless_survival.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Hi all! Today I want to show you a very cool card. It's not mine, but people abandoned the game back in version 1 and they don't care about the map, so I'll improve it, add new farms, loot, etc. Information can be found on the map. Bye everyone!"
+      },
+      {
+         "id":19,
+         "title":"Amogus",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/amogus_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/amogus_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/amogus.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is an ordinary map where I survived. Stupidly there are things and stupidly I don’t know who wants to play."
+      },
+      {
+         "id":20,
+         "title":"Hardcore Sky Block",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/hardcore_sky_block_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/hardcore_sky_block_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/hardcore_sky_block.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"My first map with 3 islands. The first one is on spawn, the second one (golem's mini dungeon) is under the main one, and the third one (corruption) is to the right of the main one. If you are looking for a map for survival and difficult passage, then this map is definitely for you."
+      },
+      {
+         "id":21,
+         "title":"House in the Rock",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/house_in_the_rock_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/house_in_the_rock_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/house_in_the_rock.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is an atmospheric house in the rock with an afk farm of invasions and some events. There are also 3 teleports - 1-farmilka, 2-hell, 3-dungeon. There are also 4 sets for a comfortable start of the game, all sets are the same (except for costumes). There is a chest with a Christmas tree and decorations for it, in the same chest there are a lot of gifts."
+      },
+      {
+         "id":22,
+         "title":"GG Map",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/gg_map_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/gg_map_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/gg_map.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Here I went through the terraria 3 times, I hope you enjoy what I did for 40 hours. I was very pleased to pass the terraria and I hope you will also be happy to run or fly in my world"
+      },
+      {
+         "id":23,
+         "title":"Dimasio",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/dimasio_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/dimasio_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/dimasio.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is the world where I survive, play, fight. The world is small, on the expert; there is not much consecration, corruption and crimson. This is a Drunk World seed world, and I named the world after a restaurant in a Stephen King novel. This world is suitable for those who do not want to play on their own world. There are also cool things that will help you get stronger."
+      },
+      {
+         "id":24,
+         "title":"Murder",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/murder_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/murder_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/murder.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"I changed my mind about doing find the chest and made a Murder card them 12+ cards\nWhat's new:\n•New maps 4\n• Skyship try to survive at the top\n• Among ace card kill from a traitor\n• Area 51 is dangerous terrain\n• Both land and greenery A very interesting name\nDownload and play with friends"
+      },
+      {
+         "id":25,
+         "title":"Find the chest",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/find_the_chest_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/find_the_chest_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/find_the_chest.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Hi all! I made a new card. It's called Find the Chest. Remember, the maps in Minecraft, where you need to find a lever to go further, are the same, I haven’t seen them yet. Map, where to look for levers, etc. I think I'm the first. Probably your goal is to find a chest trap that will open the passage. Further in the chests you can find trophies and cosmetics. Soon there will be 38 levels of pets on the map, but after the update there will be 70 levels and a challenge event where the New Year's levels are. Bye."
+      },
+      {
+         "id":26,
+         "title":"Raw milk story",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/raw_milk_story_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/raw_milk_story_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/raw_milk_story.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"The map was created to pass. I survived in it with a friend and it has a bunch of cool things, weapons, armor, etc. A couple of bosses are defeated and there are pets, so to speak. There are several NPCs in the house and rooms for others\nIn general, everything is done for a good survival :)"
+      },
+      {
+         "id":27,
+         "title":"Terraria Start House Classic",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/terraria_start_house_classic_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/terraria_start_house_classic_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/terraria_start_house_classic.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"A simple house with things, 2 Nipami, a basement, a warehouse and a bar.\nFrom Me (UsusGKakoyto - Map Author): Map only on Classic difficulty (Expert and Master in the future) Map Made in 1 Hour"
+      },
+      {
+         "id":28,
+         "title":"Ymir",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/ymir_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/ymir_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/ymir.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is my world of survival, I'm still a newbie playing for a year, please see if everything is fine there or not. Please put all three modes, please, I beg you, and I'm also kind of a collector, I have a bat"
+      },
+      {
+         "id":29,
+         "title":"Bomber man",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/bomber_man_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/bomber_man_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/bomber_man.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Map for 4 players, to start again, reinstall the map.\nThe card will break during the round. Create a new character for the map."
+      },
+      {
+         "id":30,
+         "title":"All things terraria",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/all_things_terraria_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/all_things_terraria_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/all_things_terraria.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Just above the spawn point you will see chests there all things from version 1.4.4, I will post this map expert, master and adventure"
+      },
+      {
+         "id":31,
+         "title":"TerraDark",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/terradark_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/terradark_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/terradark.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Hi, This is a map I've been making for a very long time and it's out in beta. This is a story map where you have to explore the mines and much more.\n\nThere is parkour on the map, where there are like 13 levels, 4th place with NPC mobs in the form of a mannequin. There is a plot too. One day darkness appeared in the world and a man became a zombie and infected almost everyone. And now we need to kill the boss of all this darkness so that the world is quiet and good. You can play alone or up to 4 players. There is loot for 4 players, there is also a house for storing things, etc. See it"
+      },
+      {
+         "id":32,
+         "title":"Castle Sero from the creator of NOTE",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/castle_sero_from_the_creator_of_note_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/castle_sero_from_the_creator_of_note_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/castle_sero_from_the_creator_of_note.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"I made this map for about 4 weeks, maybe a little less or more. There are 3 flying jungle islands, a forest and a mushroom biome on the map. The main castle and the arena for the initial bosses pillars to move. Portal to Skeletron Prime dungeon and arena on the ocean. Gem farm. There is a trophy room and a warehouse near the gem farm. All NPCs are there."
+      },
+      {
+         "id":33,
+         "title":"IVAN GAME",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/ivan_game_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/ivan_game_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/ivan_game.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"There are many NPC houses on this map (the 1st portal to them is on the left).\nMushroom farm (to them the 2nd portal on the left). Between the portals there is a button that removes the platform. On which you spawn pour under\nlava platform from the chest (To the right of the mushroom farm). I said everything"
+      },
+      {
+         "id":34,
+         "title":"Paradise's World",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/paradise_world_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/paradise_world_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/paradise_world.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"The following pre-hardmode bosses have been defeated:\n1 Slug King\n2. Eye of Cthulhu\n3. Queen bee\n4. Skeletron\n5. Wall of Flesh (World in hardmode, of course)\n\nHardmode bosses were also killed:\n1. Slug Queen\n\n2. Twins\n3. Destroyer\n4. Skeletron Prime\n\n5. Plantera\n6. Golem\n7. Lunatic sectarian\nAll four sky towers destroyed\n8. Moon Lord (Final Boss)\n\nAlso passed\n1. Invasion of pirates\n2 Pumpkin Moon\n3. Frosty moon\n4. Ice Legion\n5. Solar eclipse\n6 Goblin Army"
+      },
+      {
+         "id":35,
+         "title":"Solmak Survival",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/solmak_survival_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/solmak_survival_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/solmak_survival.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"My world (before hardmode) is almost all NPCs except for the stylist. I'm uploading due to the transition to a new version on another device, do not look at the asphalt"
+      },
+      {
+         "id":36,
+         "title":"Just Terraria v3",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/just_terraria_v3_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/just_terraria_v3_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/just_terraria_v3.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This map used to be playable but then became a building site, so there are a lot of nice buildings there, but there's still a lot to be built, so there will be a few more releases of this map.\n\nMap description (master version)\n\nThis map is the same, but only some buildings are missing, so I’ll build something else here or leave it like that "
+      },
+      {
+         "id":37,
+         "title":"Not a cool map",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/not_a_cool_map_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/not_a_cool_map_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/not_a_cool_map.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Not a very cool card, nothing more to say. And although the fire map is just all the trophies and statues, and I don’t care what it is like this. And also my nickname in the game chair or ches"
+      },
+      {
+         "id":38,
+         "title":"Lilith Necklace",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/lilith_necklace_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/lilith_necklace_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/lilith_necklace.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"In this card, you can take Lilith's Necklace on any character. This necklace can be obtained from a Character named Wolfpet on\nAdventure difficulty. I think everyone wants it. But I made the Toko map :/"
+      },
+      {
+         "id":39,
+         "title":"Modern Paradise",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/modern_paradise_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/modern_paradise_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/modern_paradise.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Map with a large modern six-story house for Terraria. There are rooms for NPCs and chests to store your supplies."
+      },
+      {
+         "id":40,
+         "title":"City with Cloud and God",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/9999999999999.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"9999999999999"
+      },
+      {
+         "id":41,
+         "title":"9999999999999",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/city_with_cloud_and_god_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/city_with_cloud_and_god_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/city_with_cloud_and_god.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Card with a big pumpkin house. And a house on a cloud with a golden interior. I tried very hard with a friend. There is also a protected house with a basement and cool things. On the cloud is a forge of golden bricks."
+      },
+      {
+         "id":42,
+         "title":"NPC Town Map",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/npc_town_map_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/npc_town_map_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/npc_town_map.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is a map with beautiful houses for NPCs, they themselves are distributed by biomes, and the princess is in the forest with a merchant, a golfer, etc. By the way, they are all with a “flickering” skin. By the way, the map was made on version 1.4.3, but the shimmer is attached as a biome near the city in a cave. By the way, there is a type of castle on the spawn. There is also a flying house for the player (the picture can be replaced). I hope you enjoy it "
+      },
+      {
+         "id":43,
+         "title":"Labyrinth for drone",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/labyrinth_for_drone_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/labyrinth_for_drone_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/labyrinth_for_drone.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is a small map with a drone maze. Version 1.4.4 does not have a drone in the map, it can be found with the cyborg. Needed: a drone and special glasses that are sold by the cyborg. Rules: as close as possible to the camera, do not fly around the maze cube, do not cheat in general."
+      },
+      {
+         "id":44,
+         "title":"World Top map",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/world_top_map_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/world_top_map_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/world_top_map.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"It's just a map that I built myself.\n– All nips (except Santa)\n- Travel\n– All pylons are available\n– Beautiful houses (in my opinion\nIn short, top card"
+      },
+      {
+         "id":45,
+         "title":"Dome of Salvation 2",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/dome_of_salvation_2_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/dome_of_salvation_2_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/dome_of_salvation_2.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Kotyara and his team began to create a dome, since the whole world is covered with distortion and there is no salvation. At the beginning, you will spawn in a house, but on one side is what we have managed to build so far. In the future, in the dome, in addition to the mushroom farm, the NPC warehouse without resources and the Crafting place will be much larger than anything, since the glass dome covers the entire jungle biome, well, we turned the jungle into a mushroom biome using a purifier and, by the way, the holy biome has been removed from the world. Killed by Plantin. Can you complete the game in this world?"
+      },
+      {
+         "id":46,
+         "title":"Completely completed world",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/completely_completed_world_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/completely_completed_world_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/completely_completed_world.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"It's just my world in terraria, I can't really say anything about it, but when installing, make sure that you have version 1.4.4 and not 1.4.3 and below. Due to the lower versions, the world will completely break down (if you manage to launch it), that is, there will not be some buildings or the world will restart at all and everything will be deleted there and the world that was generated in 1.4.3 will be regenerated in 1.4.4. Or it won't start at all."
+      },
+      {
+         "id":47,
+         "title":"Mirai adventure",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/mirai_adventure_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/mirai_adventure_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/mirai_adventure.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"This is the map of my second passage, designed for the class - warrior. With planned actions and plans. Well, basically this map is published just in order not to lose it when transferring files, since I have a pirate 1.4.3 installed and I want to upgrade to 1.4.4"
+      },
+      {
+         "id":48,
+         "title":"Mir Goldonyan",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/mir_goldonyan_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/mir_goldonyan_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/mir_goldonyan.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Map version of Golden... For now, it's only Golden's temple, but in the future you will learn more secrets about it.. Ivan Golden will be waiting for you in his world.. Have a good time on the map;)"
+      },
+      {
+         "id":49,
+         "title":"Under Heaven",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/under_heaven_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/under_heaven_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/under_heaven.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"Map \"Under the heavenly majesty\". Why did she call it that? Don't know. At the spawn point there is a small mansion, under which there are traps for monsters. This mansion is your home. In addition to the mansion, there is also a small town on the edge of the map. There is a large mansion in the snow biome where two Nipa live. The town at the edge of the map looks simple enough. If you are a fan of simple but aesthetic cities, then this map will come to your taste. For all questions, write to me in the cart @drift_aura"
+      },
+      {
+         "id":50,
+         "title":"Survival Journey",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/survival_journey_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/survival_journey_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/survival_journey.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"A very good map for travel survival. Nearby there is a pyramid and a living tree, there is also a house in it with a lot of floors and chests. In the house several chests are filled"
+      },
+      {
+         "id":51,
+         "title":"Daniel's World",
+         "thumbnail":"https://livemovies.club/terraria/Worlds/daniel_world_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Worlds/daniel_world_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Worlds/daniel_world.zip",
+         "type":"Map",
+         "extension":"wld",
+         "description":"There is everything, a house, a mushroom farm, a warehouse with stardust chests, they have items, but ordinary ones do not. Houses for nips, houses for fishing, on the left is a house with a bunch of things for fishing, it is on the beach like the second"
       }
    ]
 }
