@@ -1,207 +1,646 @@
 {
    "info":"Terraria Player Mods",
-   "version":3,
-   "total":20,
+   "total":64,
    "result":[
       {
-         "id":1,
-         "title":"My Persian",
-         "thumbnail":"https://livemovies.club//terraria/Players/my_persian_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/my_persian_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/my_persian.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is my character he has the legendary zenith 999 mithril ingots and more. I confess I took some things from the save editor, I hope this does not prevent you from downloading it."
-      },
-      {
-         "id":2,
-         "title":"Persian made for building",
-         "thumbnail":"https://livemovies.club//terraria/Players/persian_made_for_building_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/persian_made_for_building_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/persian_made_for_building.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A character from terraria for which I create a world that I have already released. This character has expensive things, but there is no money. Therefore, it is clear that I am a boh by profession and a sucker in life."
-      },
-      {
-         "id":3,
-         "title":"You Name It",
-         "thumbnail":"https://livemovies.club//terraria/Players/you_name_it_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/you_name_it_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/you_name_it.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello everyone :1\nin this Persian there are 3 classes at once: warrior, shooter and summoner. (to switch to the armor menu, click the icon with a person and choose)\nthere are axes for each class (wings, terra-workers and decorations only on the warrior :0 ) all items are reforged (some items and axes are not forged on <<legendary>> or <<+ 4>> :[ ) there are all weapons for classes: whip with the sword of the Empress, zenith.\nthere is a bag of void, laser drill, stardust pickaxe.\ntried for 2 months.\n\nHave a nice game everyone :]"
-      },
-      {
-         "id":4,
-         "title":"Wendy",
-         "thumbnail":"https://livemovies.club//terraria/Players/wendy_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/wendy_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/wendy.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"As I wrote, there will be problems!\nI didn't know how to do\nperfect white eyes\nWho knows!\nhow to get perfect white eyes\nIf it doesn't look like it, then it is...\ncomment on this character."
-      },
-      {
-         "id":5,
-         "title":"Wilson",
-         "thumbnail":"https://livemovies.club//terraria/Players/wilson_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/wilson_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/wilson.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Wilson, why is he?\nIts easy to make!\nI could do Wendy but I was too lazy ...\nIt can be made, as there are all the materials for creating a character.\nBut there will be problems with the eyes, straight white-white, I can’t do it.\nBut there is a great idea!\nCreated by Wendy."
-      },
-      {
-         "id":6,
-         "title":"Ezio Assasin Creed",
-         "thumbnail":"https://livemovies.club//terraria/Players/ezio_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/ezio_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/ezio.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Ezio.?\nI thought it was Altair!\nTried to make it as similar as possible\nAs you can see it worked!\nBut not without help╮\u2060(\u2060╯\u2060_\u2060╰\u2060)\u2060╭\nI didn't want to download it at all(\u2060⌐\u2060■\u2060-\u2060■\u2060)\nmade a month agoಡ\u2060 ͜\u2060 \u2060ʖ\u2060 \u2060ಡ\nIf you don't like it, write immediately!\nI'll probably send my card later."
-      },
-      {
-         "id":7,
-         "title":"Obi Wan Kenobi",
-         "thumbnail":"https://livemovies.club//terraria/Players/obi_wan_kenobi_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/obi_wan_kenobi_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/obi_wan_kenobi.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This character was not created for the passage, but if you are risky, then I advise you to pass on the master ...\n୧\u2060(\u2060＾\u2060 \u2060〰\u2060 \u2060＾\u2060)\u2060୨\nOr maybe on a trip!\n\nTried to pass on the master\ncould not..."
-      },
-      {
-         "id":8,
-         "title":"Shin",
-         "thumbnail":"https://livemovies.club//terraria/Players/shin_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/shin_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/shin.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Shin, created for the passage of the game. This given character, you may like it, if, of course, you understand how to play it. You can play in all modes, from travel to master."
-      },
-      {
-         "id":9,
-         "title":"Laugh",
-         "thumbnail":"https://livemovies.club//terraria/Players/laugh_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/laugh_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/laugh.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A good person who depends on terraria, as the youtuber once said. This is my first time passing in an expert. I will also lay out the world so that you understand how I tried?"
-      },
-      {
-         "id":10,
-         "title":"You",
-         "thumbnail":"https://livemovies.club//terraria/Players/you_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/you_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/you.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"For this character, I went through the world called GG, you can also download it. I spent 40 hours. An expert world and character will be released soon if you like what I do write comments"
-      },
-      {
-         "id":11,
-         "title":"Top 1 Persian",
-         "thumbnail":"https://livemovies.club//terraria/Players/top_1_persian_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/top_1_persian_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/top_1_persian.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello, today I will tell you that this Persian was top until the update came out and this Persian died. And he became a legend before update 1.4.4.4 and everything should be fine"
-      },
-      {
-         "id":12,
-         "title":"Joseph Joestar",
-         "thumbnail":"https://livemovies.club//terraria/Players/joseph_joestar_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/joseph_joestar_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/joseph_joestar.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Character Joseph Joestar (young) from Part 2 of the JoJo's Bizarre Adventure Manga. Has a set of solar flare armor, as well as tools.\nIf you want me to add or remove something, etc., then write in the reviews"
-      },
-      {
-         "id":13,
-         "title":"Developer",
-         "thumbnail":"https://livemovies.club//terraria/Players/developer_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/developer_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/developer.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"A great and powerful developer who has complete control over the Terraria universe.\nFrom the chips of this character:\n1. All duplication items are open\n2. Has 3 different sets of armor (I-Maximum, II-Medium, III-Minimum)\n3. Has the best Terraria weapons in stock\n4. A void bag that has additional items.\n5. When changing the difficulty level, additional accessories are added - (Expert Nimbus, Master Glittering Cloak, Epic Music)\nThe supported version is 1.4.4 and above."
-      },
-      {
-         "id":14,
-         "title":"Mega Warrior",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_warrior_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_warrior_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_warrior.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"If you are too lazy to level up your warrior character, then please keep it, a very cool leveling warrior who can tear the Moon Lord to shreds with the help of the Zenith that you will have, if you want, you can shoot cats that will skillfully destroy almost all bosses, but you can destroy them with a wave of earth from the Earth Blade, and if you want you can shoot them with stars from the sky, and also the same yo-yo will destroy all enemies in your path."
-      },
-      {
-         "id":15,
-         "title":"True Destroyer of Evil",
-         "thumbnail":"https://livemovies.club//terraria/Players/true_destroyer_of_evil_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/true_destroyer_of_evil_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/true_destroyer_of_evil.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello again, here is the True Destroyer of Evil. He remembers all the beginning of his adventure and endless continuation he wanders all over the worlds in search of evil to destroy him, during his adventure he became too strong he made a titanium set, terra boots and all cool weapons now he is merciless and will help everyone who is in trouble ."
-      },
-      {
-         "id":16,
-         "title":"Nedo Super Mage",
-         "thumbnail":"https://livemovies.club//terraria/Players/nedo_super_mage_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/nedo_super_mage_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/nedo_super_mage.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"Hello, I'm here for the first time and I created a character in general, everything is modest, what can you do, I'm waiting for an answer, you can also suggest what to add. The screenshot shows that there is a razor typhoon, a hammer drill, and the last prism. From accessories bracelets of wind, regeneration, mana, UFO mount, the whole titanium set."
-      },
-      {
-         "id":17,
-         "title":"Assassin of darkness",
-         "thumbnail":"https://livemovies.club//terraria/Players/assassin_of_darkness_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/assassin_of_darkness_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/assassin_of_darkness.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is the killer of darkness. It has features:\n- Hidden at night\n-There are useful weapons\n-There are hidden equipment\n- Completely pumped\n-There are 2 presets\nThe character goes to version 1.4.4.5 and higher. I did it on android 12. In short, URINE THEM ALL IN THE DARKNESS!!!!!!!"
-      },
-      {
-         "id":18,
-         "title":"Mega Shooter",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_shooter_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_shooter_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_shooter.zip",
-         "type":"Player",
-         "extension":"plr",
-         "description":"This is Mega Shooter. He has: sniper rifle, P.K.D., whirlwind cannon, venus, whirlwind armor and cool shooter accessories, etc. He also has a witch's broom mount and is the last of the cool characters."
-      },
-      {
-         "id":19,
+         "id":23,
          "title":"Mega Warrior 2",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_warrior_2_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_warrior_2_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_warrior_2.zip",
+         "thumbnail":"https://livemovies.club/terraria/Players/mega_warrior_2_ss_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mega_warrior_2_ss_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mega_warrior_2_ss.zip",
          "type":"Player",
          "extension":"plr",
          "description":"This is Mega Warrior. He has: dawn, solar eruption, zenith, flower strike, creepy glaive, meowmur, flying dragon, terrarian, etc. He also has solar flare armor and cool accessories."
       },
       {
-         "id":20,
+         "id":25,
+         "title":"Mega Summoner 2",
+         "thumbnail":"https://livemovies.club/terraria/Players/mega_summoner_2_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mega_summoner_2_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mega_summoner_2.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is a Mega Summoner. He has: Kaleidoscope, Morning Star, Lunar Portal Staff, Ice Hydra Staff, Terraprism, Prismatic Crystal Staff, Stardust Armor, cool summoner accessories, etc."
+      },
+      {
+         "id":24,
          "title":"Mega Mage 2",
-         "thumbnail":"https://livemovies.club//terraria/Players/mega_mage_2_t.jpg",
-         "screenshot":"https://livemovies.club//terraria/Players/mega_mage_2_ss.jpg",
-         "fileurl":"https://livemovies.club//terraria/Players/mega_mage_2.zip",
+         "thumbnail":"https://livemovies.club/terraria/Players/mega_mage_2_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mega_mage_2_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mega_mage_2.zip",
          "type":"Player",
          "extension":"plr",
          "description":"This is Mega Mage. It has: last prism, lunar flare, nebula flame, dark red, etc. He also has solar flare armor and cool accessories. In short, I advise."
+      },
+      {
+         "id":22,
+         "title":"Mega Shooter 2",
+         "thumbnail":"https://livemovies.club/terraria/Players/mega_shooter_2_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mega_shooter_2_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mega_shooter_2.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is Mega Shooter. He has: sniper rifle, P.K.D., whirlwind cannon, venus, whirlwind armor and cool shooter accessories, etc. He also has a witch's broom mount and is the last of the cool characters."
+      },
+      {
+         "id":42,
+         "title":"Fire Spirit",
+         "thumbnail":"https://livemovies.club/terraria/Players/spirit_of_fire_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/spirit_of_fire_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/spirit_of_fire.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the spirit of fire, he has a lot of fiery things. He is a warrior, he also has solar flare armor, and cool accessories for a warrior. This is my first character, I hope you enjoy it."
+      },
+      {
+         "id":41,
+         "title":"Water Spirit",
+         "thumbnail":"https://livemovies.club/terraria/Players/water_spirit_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/water_spirit_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/water_spirit.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the spirit of Water, he has a lot of everything watery. In short Download you will not regret it. And this is the third spirit.\nIt has ice brand, whipped cream, ice flower, ice stick, rain stick, etc."
+      },
+      {
+         "id":40,
+         "title":"Earth Spirit",
+         "thumbnail":"https://livemovies.club/terraria/Players/earth_spirit_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/earth_spirit_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/earth_spirit.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the Spirit of the earth, he has a lot of everything earthly. He has a Leaf Thrower, Needle Thrower, Spiky Chakram, Nettle Blast, Seeder, Terra Blade, etc. And this is the last spirit, I hope you like them."
+      },
+      {
+         "id":64,
+         "title":"Death Spirit",
+         "thumbnail":"https://livemovies.club/terraria/Players/death_spirit_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/death_spirit_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/death_spirit.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the spirit of Death, he has many dark weapons. He is a mage wearing nebula armor on him. This character belongs to the character Spirit of Fire. More spirits follow."
+      },
+      {
+         "id":1,
+         "title":"Super Trader",
+         "thumbnail":"https://livemovies.club/terraria/Players/super_trader_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/super_trader_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/super_trader.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"The super merchant has a lot of rare and valuable goods in his bag that he can sell you at three prices. All the settlers are friends with him, since he can take goods at a discount from all of them. He has little damage, but it's for the good of the money! Since he knocks money out of enemies even before they die.\n\nClass: Warrior\nEquipment: Bug Armor"
+      },
+      {
+         "id":2,
+         "title":"Warrior, Mage, Shooter",
+         "thumbnail":"https://livemovies.club/terraria/Players/warrior_mage_shooter_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/warrior_mage_shooter_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/warrior_mage_shooter.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A character with three classes warrior, mage, shooter. There is a zenith on a warrior, on a magician\nthere is a glove on the sniper's arrow. Painted character in rainbow\n\nColour. The warrior has the star of mon lord, the magician has developer wings, the shooter has\ndeveloper wings."
+      },
+      {
+         "id":3,
+         "title":"Imbovy",
+         "thumbnail":"https://livemovies.club/terraria/Players/imbovy_persian_for_grater_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/imbovy_persian_for_grater_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/imbovy_persian_for_grater.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Persian imba, there is a zenith, yoyo, and many other cool weapons. ATTENTION!!! The character in the ZIP file, before entering the terraria, go to the players folder along the path Android/data/com.and.games505.TerrariaPaid/Players and unzip the archive called Fox.zip. it is possible through any explorer, but I have an ES explorer, and everything works. All right, good luck!"
+      },
+      {
+         "id":4,
+         "title":"Molvin",
+         "thumbnail":"https://livemovies.club/terraria/Players/warrior_molvin_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/warrior_molvin_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/warrior_molvin.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello, this character is a warrior, I called him Molvin because he looks like Molvin, it’s not strange Now let’s go through the character “briefly” 5 times on this character there are many things, all of them can be seen in the photo. I have nothing more to tell :} If you have any questions about bugs or improvements, write to the mail, it's somewhere there. I hope you find. So GOOD LUCK!!!!!!"
+      },
+      {
+         "id":5,
+         "title":"Zoologist",
+         "thumbnail":"https://livemovies.club/terraria/Players/zoologist_summoner_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/zoologist_summoner_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/zoologist_summoner.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hi. This character was originally intended for work on the “Decor” world, but I made it an ordinary summoner \uD83D\uDE11 Now let's quickly go over the character of the summoner character, but this character has many other things, like doves \uD83D\uDE42 If there are any flaws, write to the mail! She's around here somewhere\nThanks in advance if you downloaded this character \uD83D\uDE42 GOOD LUCK!"
+      },
+      {
+         "id":6,
+         "title":"Do Moon Lord",
+         "thumbnail":"https://livemovies.club/terraria/Players/do_moon_lord_warrior_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/do_moon_lord_warrior_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/do_moon_lord_warrior.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"It's up to Moon Lord Warrior. With it, you can defeat Moon Lord. He has 3 pieces of equipment: the first has bug armor, the second\nBeetle breastplate and in the third turtle armor. Cool accessories, etc."
+      },
+      {
+         "id":7,
+         "title":"Gordon freeman & chell",
+         "thumbnail":"https://livemovies.club/terraria/Players/gordon_freeman_chell_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/gordon_freeman_chell_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/gordon_freeman_chell.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Freeman, Gordon Freeman is the protagonist of the one-name game Half life (1-2) and 2 episodes of the second part. Nuclear physicist. At the age of 27, he got a job working in the black mesa complex, where there was a cascade resonance due to the crystal that G-man brought."
+      },
+      {
+         "id":8,
+         "title":"Brity ni",
+         "thumbnail":"https://livemovies.club/terraria/Players/brity_ni_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/brity_ni_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/brity_ni.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello, this is already 3 characters. Now again, briefly go over the enumeration character itself. this character is a warrior, he has a lot of stuff in his inventory, even for yoyo. In principle, in the photo you can see what it is like. In principle, this is all that can be said. If there are no improvements or bugs, etc., then be sure to write to the post office somewhere, that is: [I really hope that we will meet GOOD LUCK!"
+      },
+      {
+         "id":9,
+         "title":"Fionicles",
+         "thumbnail":"https://livemovies.club/terraria/Players/fionicles_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/fionicles_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/fionicles.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello, I don't think you know me. Now I will briefly talk about the character. His name is \"Fionicle\" is a magician. It has a lot of resources and items for the summoner and also 2000 mana regan potions :). It also has my favorite boss, or rather his summoner; ) if anything, write to the email indicated somewhere \uD83D\uDE42 if there are errors, be sure to write, I will read all your reviews. Okay, I gave you too much trouble so good luck"
+      },
+      {
+         "id":10,
+         "title":"S1ndy",
+         "thumbnail":"https://livemovies.club/terraria/Players/s1ndy_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/s1ndy_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/s1ndy.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is my first character from the world on it I survived in the world 100% bestiary 1.4.4 I forgot to attach it to the world so they are separate, sorry."
+      },
+      {
+         "id":11,
+         "title":"Nashka",
+         "thumbnail":"https://livemovies.club/terraria/Players/nashka_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/nashka_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/nashka.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A character with many accessories, summons and very excellent armor, there is a “driving drill” Legendary Zenith “Magic mirror* generally normal Persian, and also with bare summons, Persian is not for beginners, try it on hardmode) By reel, ahah."
+      },
+      {
+         "id":12,
+         "title":"My Persian",
+         "thumbnail":"https://livemovies.club/terraria/Players/my_persian_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/my_persian_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/my_persian.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is my character he has the legendary zenith 999 mithril ingots and more. I confess I took some things from the save editor, I hope this does not prevent you from downloading it."
+      },
+      {
+         "id":13,
+         "title":"You Name It",
+         "thumbnail":"https://livemovies.club/terraria/Players/you_name_it_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/you_name_it_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/you_name_it.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello everyone :1\nin this Persian there are 3 classes at once: warrior, shooter and summoner. (to switch to the armor menu, click the icon with a person and choose)\nthere are axes for each class (wings, terra-workers and decorations only on the warrior :0 ) all items are reforged (some items and axes are not forged on <<legendary>> or <<+ 4>> :[ ) there are all weapons for classes: whip with the sword of the Empress, zenith.\nthere is a bag of void, laser drill, stardust pickaxe.\ntried for 2 months.\n\nHave a nice game everyone :]"
+      },
+      {
+         "id":14,
+         "title":"Wilson",
+         "thumbnail":"https://livemovies.club/terraria/Players/wilson_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/wilson_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/wilson.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Wilson, why is he?\nIts easy to make!\nI could do Wendy but I was too lazy ...\nIt can be made, as there are all the materials for creating a character.\nBut there will be problems with the eyes, straight white-white, I can’t do it.\nBut there is a great idea!\nCreated by Wendy."
+      },
+      {
+         "id":15,
+         "title":"Ezio",
+         "thumbnail":"https://livemovies.club/terraria/Players/ezio_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/ezio_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/ezio.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Ezio.?\nI thought it was Altair!\nTried to make it as similar as possible\nAs you can see it worked!\nBut not without help╮\u2060(\u2060╯\u2060_\u2060╰\u2060)\u2060╭\nI didn't want to download it at all(\u2060⌐\u2060■\u2060-\u2060■\u2060)\nmade a month agoಡ\u2060 ͜\u2060 \u2060ʖ\u2060 \u2060ಡ\nIf you don't like it, write immediately!\nI'll probably send my card later."
+      },
+      {
+         "id":16,
+         "title":"Obi-Wan Kenobi",
+         "thumbnail":"https://livemovies.club/terraria/Players/obi-wan_kenobi_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/obi-wan_kenobi_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/obi-wan_kenobi.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This character was not created for the passage, but if you are risky, then I advise you to pass on the master ...\n୧\u2060(\u2060＾\u2060 \u2060〰\u2060 \u2060＾\u2060)\u2060୨\nOr maybe on a trip!\n\nTried to pass on the master\ncould not..."
+      },
+      {
+         "id":17,
+         "title":"Top 1 Persian",
+         "thumbnail":"https://livemovies.club/terraria/Players/top_1_persian_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/top_1_persian_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/top_1_persian.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello, today I will tell you that this Persian was top until the update came out and this Persian died. And he became a legend before update 1.4.4.4 and everything should be fine"
+      },
+      {
+         "id":18,
+         "title":"Joseph Joestar",
+         "thumbnail":"https://livemovies.club/terraria/Players/joseph_joestar_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/joseph_joestar_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/joseph_joestar.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Character Joseph Joestar (young) from Part 2 of the JoJo's Bizarre Adventure Manga. Has a set of solar flare armor, as well as tools.\nIf you want me to add or remove something, etc., then write in the reviews"
+      },
+      {
+         "id":19,
+         "title":"Developer",
+         "thumbnail":"https://livemovies.club/terraria/Players/developer_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/developer_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/developer.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A great and powerful developer who has complete control over the Terraria universe.\nFrom the chips of this character:\n1. All duplication items are open\n2. Has 3 different sets of armor (I-Maximum, II-Medium, III-Minimum)\n3. Has the best Terraria weapons in stock\n4. A void bag that has additional items.\n5. When changing the difficulty level, additional accessories are added - (Expert Nimbus, Master Glittering Cloak, Epic Music)\nThe supported version is 1.4.4 and above."
+      },
+      {
+         "id":20,
+         "title":"Mega Warrior 3",
+         "thumbnail":"https://livemovies.club/terraria/Players/mega_warrior_3_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mega_warrior_3_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mega_warrior_3.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"If you are too lazy to level up your warrior character, then please keep it, a very cool leveling warrior who can tear the Moon Lord to shreds with the help of the Zenith that you will have, if you want, you can shoot cats that will skillfully destroy almost all bosses, but you can destroy them with a wave of earth from the Earth Blade, and if you want you can shoot them with stars from the sky, and also the same yo-yo will destroy all enemies in your path."
+      },
+      {
+         "id":21,
+         "title":"Assassin of darkness",
+         "thumbnail":"https://livemovies.club/terraria/Players/assassin_of_darkness_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/assassin_of_darkness_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/assassin_of_darkness.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the killer of darkness. It has features:\n- Hidden at night\n-There are useful weapons\n-There are hidden equipment\n- Completely pumped\n-There are 2 presets\nThe character goes to version 1.4.4.5 and higher. I did it on android 12. In short, URINE THEM ALL IN THE DARKNESS!!!!!!!"
+      },
+      {
+         "id":26,
+         "title":"Multi class",
+         "thumbnail":"https://livemovies.club/terraria/Players/multi_class_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/multi_class_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/multi_class.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A character with top armor and weapons. Worth a classic mod. There are also pets. He has an anti-aircraft gun and the last weapon on the magician. Munlrrd Armor. Has a bag of bullets and a quiver of arrows. You have 49 platinum."
+      },
+      {
+         "id":27,
+         "title":"Professor green",
+         "thumbnail":"https://livemovies.club/terraria/Players/professor_green_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/professor_green_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/professor_green.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hello, this is my first time when I create a character, in short, let's move on to the character, he has the legendary Zenith, he has damage of 333, this is the maximum damage Zenith has equipment, if you remove the accessories, Zenith will become but half weak, the character has solar flare armor, it is not visible but is visible in the equipment The character is not finished because I don't have the green dye."
+      },
+      {
+         "id":28,
+         "title":"THREE IN ONE",
+         "thumbnail":"https://livemovies.club/terraria/Players/three_in_one_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/three_in_one_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/three_in_one.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"character (THREE IN ONE)\n\nDescription of the card or character: This character includes 3 classes\nWarrior\nSummoner\nStatic Summoner\nAll weapons and axes on the best charms)\nMy channel Alizz0920\nThis character has the best weapons and accessories to complete the game.\nVersion 1.4.4."
+      },
+      {
+         "id":29,
+         "title":"Traktor SunFire",
+         "thumbnail":"https://livemovies.club/terraria/Players/traktor_sunfire_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/traktor_sunfire_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/traktor_sunfire.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"The character with the best damage buffs for 570 hours. DPS showed with a zenith of 2kk (2 million) The skin tried to make it as beautiful as possible, but this is everyone’s business, set it up for yourself) Art here is the best for a warrior, armor too, everything is reforged into crit chance, except for one thing because zenith and so already has 100% crit chance. Krch download, play, the character is very strong (to exclude buffs, delete the character and reload, just don't forget to throw things into the chest)\n\n"
+      },
+      {
+         "id":30,
+         "title":"Ultron",
+         "thumbnail":"https://livemovies.club/terraria/Players/ultron_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/ultron_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/ultron.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"It's Ultron from Marvel in Terraria! He has a powerful magician's power, has the ability to teleport, wants to infect the whole world, for this he has a transformer and seeds of bad biomes! Pretty powerful character. (Minimum version : 1.4.4)"
+      },
+      {
+         "id":31,
+         "title":"All things jorny",
+         "thumbnail":"https://livemovies.club/terraria/Players/all_things_jorny_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/all_things_jorny_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/all_things_jorny.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the Persian where all things are. You want to build something Then this is the pers for you all things. 1. 4. 4. 1 on Android and PC is awesome! Two skins from Jo Jo. download and enjoy :)!"
+      },
+      {
+         "id":32,
+         "title":"Just a Persian",
+         "thumbnail":"https://livemovies.club/terraria/Players/just_a_persian_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/just_a_persian_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/just_a_persian.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"It's just some kind of Persian just for some kind of survival. This Persian is just a Persian, he just has two sets of armor and just a lot of things, because he's just a Persian, he has things in the safe, the defender's stove and in the piggy bank"
+      },
+      {
+         "id":33,
+         "title":"Giorgi",
+         "thumbnail":"https://livemovies.club/terraria/Players/giorgi_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/giorgi_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/giorgi.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Persian imprisoned for all classes! MINIMUM! in the inventory of all (almost) red and blue items. Soon I will pump them to the maximum speed (the rest is on the screenshots)"
+      },
+      {
+         "id":34,
+         "title":"God of Music",
+         "thumbnail":"https://livemovies.club/terraria/Players/god_of_music_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/god_of_music_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/god_of_music.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the god of music. There are many musical things. He has: musical harp, star motif, ivy, rainsong, drum set, drumstick, nebula armor and cool accessories."
+      },
+      {
+         "id":35,
+         "title":"Necromancer",
+         "thumbnail":"https://livemovies.club/terraria/Players/necromancer_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/necromancer_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/necromancer.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This Necromancer has a lot of sinister pieces, nebula armor, cool accessories, etc. He has: life stealer, nebula flame, voodoo doll, etc. He also has a goat skull mount, nebula armor, cool accessories for the mage nebula wings and a yo-yo accessory."
+      },
+      {
+         "id":36,
+         "title":"Yuno",
+         "thumbnail":"https://livemovies.club/terraria/Players/yuno_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/yuno_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/yuno.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is Yuno a character from my favorite anime Black Clover. He has many magical items and accessories. Armor of the Nebula. In other words, he's cool."
+      },
+      {
+         "id":37,
+         "title":"Dark King",
+         "thumbnail":"https://livemovies.club/terraria/Players/dark_king_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/dark_king_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/dark_king.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This is the dark king, or the lord of evil. Celik powerful has a lot of evil, cool things and looks ominous. He has cool accessories and armor. There are pets. "
+      },
+      {
+         "id":38,
+         "title":"Spectral",
+         "thumbnail":"https://livemovies.club/terraria/Players/spectral_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/spectral_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/spectral.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Persian on summoner has jornal inventory fully open stardust armor and stardust dragon in axes scroll of necromancer living rainbow dye and effects on summoner"
+      },
+      {
+         "id":39,
+         "title":"Wa1zzeR",
+         "thumbnail":"https://livemovies.club/terraria/Players/wa1zzer_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/wa1zzer_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/wa1zzer.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"In this character, I updated the sword, found a death scythe and a mod 2 triumph, as well as a lot of ammo for it."
+      },
+      {
+         "id":43,
+         "title":"Fanta",
+         "thumbnail":"https://livemovies.club/terraria/Players/fanta_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/fanta_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/fanta.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This character has 500hp and 200 mana\nAnd a lot of things weapons, etc. accessories"
+      },
+      {
+         "id":44,
+         "title":"God for Terraria",
+         "thumbnail":"https://livemovies.club/terraria/Players/god_for_terraria_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/god_for_terraria_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/god_for_terraria.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"I found a site where you can make Persians, well, I did it, if the summoner is short at minimum wages, the name of the game is god1, there are a lot of buffs on the Persian, and armor (writes that the description is too short, I don’t know what to write already)"
+      },
+      {
+         "id":45,
+         "title":"Black Hole God",
+         "thumbnail":"https://livemovies.club/terraria/Players/black_hole_god_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/black_hole_god_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/black_hole_god.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"The Black Hole God is a Nebula-armored character, and this character's weapons are mostly staves. In general, as usual, download and check out another god"
+      },
+      {
+         "id":46,
+         "title":"God of Space",
+         "thumbnail":"https://livemovies.club/terraria/Players/god_of_space_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/god_of_space_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/god_of_space.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"The character is wearing solar flare armor, and there are three good balls such as Zenith, Star Beam and Star Fury from weapons. In addition, there are a couple of dangerous things in the inventory."
+      },
+      {
+         "id":47,
+         "title":"Gentleman",
+         "thumbnail":"https://livemovies.club/terraria/Players/gentleman_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/gentleman_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/gentleman.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A Persian who has a lot of not bad things. I like it, I want many people to like it too, so it's easy for you to survive, download it, don't be shy, maybe I'll post a new map"
+      },
+      {
+         "id":48,
+         "title":"Hyper sonic",
+         "thumbnail":"https://livemovies.club/terraria/Players/hyper_sonic_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/hyper_sonic_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/hyper_sonic.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Hyper Sonic. he was made for the map. Which will be out soon. He should be the most imb character on the map. And to get it, you need all 7 chaos emeralds. + 1 hiber and + master."
+      },
+      {
+         "id":49,
+         "title":"Fangai",
+         "thumbnail":"https://livemovies.club/terraria/Players/fangai_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/fangai_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/fangai.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A fully prismatic character with a prism, he has no class. There is a tank mount, terraprism, other weapons and a mushroom gauntlet. In the future there will be two jungle Persians"
+      },
+      {
+         "id":50,
+         "title":"Obsidian Mage",
+         "thumbnail":"https://livemovies.club/terraria/Players/obsidian_mage_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/obsidian_mage_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/obsidian_mage.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Character with infernal accessories. From the start there is a hook, 4 staffs, wings, a hellish shell and full hp with mana. He has few weapons and weak tools.\n\nIn the future I will make more characters ky."
+      },
+      {
+         "id":51,
+         "title":"Just people",
+         "thumbnail":"https://livemovies.club/terraria/Players/just_people_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/just_people_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/just_people.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"I don't know why I created this character, because there are many such characters.\nI created it myself, it has a zenith, a teraprism, a nebula pickaxe and everything you need to play. The character is not super super durable against hardmode monsters.\nThis is my first character do not judge strictly!"
+      },
+      {
+         "id":52,
+         "title":"Mod Edge of night",
+         "thumbnail":"https://livemovies.club/terraria/Players/mod_edge_of_night_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/mod_edge_of_night_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/mod_edge_of_night.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This mod is to get the \"edge of the night\" at the beginning of the game and the bonus \"hook - cat\""
+      },
+      {
+         "id":53,
+         "title":"Jotaro",
+         "thumbnail":"https://livemovies.club/terraria/Players/jotaro_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/jotaro_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/jotaro.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"I created a jotaro character from the anime “Jo Jo” for terraria, he is on the classic difficulty with the best set for the summoner and the wand of discord, he also has a stand close to the original, I hope you like the character, good luck playing!"
+      },
+      {
+         "id":54,
+         "title":"Japanese Samurai",
+         "thumbnail":"https://livemovies.club/terraria/Players/japanese_samurai_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/japanese_samurai_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/japanese_samurai.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A Japanese Samurai Knight recreated in the regular world of Terraria An ideal archer, created according to the norms of Japanese warriors and archers"
+      },
+      {
+         "id":55,
+         "title":"Multiclass",
+         "thumbnail":"https://livemovies.club/terraria/Players/multiclass_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/multiclass_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/multiclass.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A character with all classes, everything is not well reforged, there is a legendary zenith, and weapons for each class, accessories 2 per class, health and mana are full"
+      },
+      {
+         "id":56,
+         "title":"Squid",
+         "thumbnail":"https://livemovies.club/terraria/Players/squid_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/squid_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/squid.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"This character has a good weapon, he is available on 1.4.3, there are also Moon Lord Legs, 2 types of armor and there is post-moon lord content, he is also in classic mode, access is on android, the character is closed for 1.3"
+      },
+      {
+         "id":57,
+         "title":"Boxi",
+         "thumbnail":"https://livemovies.club/terraria/Players/boxi_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/boxi_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/boxi.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Warrior class character and my friend. Adventure mode. Can only be downloaded to phones, does not work on a computer! The bestiary is almost complete in this world. I'll throw it off tomorrow, but for now, enjoy the character!"
+      },
+      {
+         "id":58,
+         "title":"Duplicator",
+         "thumbnail":"https://livemovies.club/terraria/Players/duplicator_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/duplicator_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/duplicator.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"In this character, all duplication is open, but you can also install it for other modes, since there is already a zenith and other items there"
+      },
+      {
+         "id":59,
+         "title":"Cruel Summoner",
+         "thumbnail":"https://livemovies.club/terraria/Players/cruel_summoner_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/cruel_summoner_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/cruel_summoner.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Another character for those who like to play Terraria as a summoner class. This character is protected by Stardust Armor, armed with a Legendary Terraprism and a Caledoscope. and"
+      },
+      {
+         "id":60,
+         "title":"Sheva311",
+         "thumbnail":"https://livemovies.club/terraria/Players/sheva311_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/sheva311_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/sheva311.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"The character in the armor of solar dust, with weapons, he is also all right. There is a Terraprism sword and a large number of different staves."
+      },
+      {
+         "id":61,
+         "title":"Wat Almighty",
+         "thumbnail":"https://livemovies.club/terraria/Players/wat_almighty_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/wat_almighty_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/wat_almighty.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"To the map Stegin Flor there is a character with all the things go into the inventory craft Duplication and take at least the zenith there.\n200 mana 500 health"
+      },
+      {
+         "id":62,
+         "title":"Facebreaker Summoner",
+         "thumbnail":"https://livemovies.club/terraria/Players/facebreaker_summoner_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/facebreaker_summoner_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/facebreaker_summoner.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"Love to play as a summoner class and pop the faces of your enemies easily? If yes, then this character was created especially for you)"
+      },
+      {
+         "id":63,
+         "title":"Dagger Master",
+         "thumbnail":"https://livemovies.club/terraria/Players/dagger_master_t.webp",
+         "screenshot":"https://livemovies.club/terraria/Players/dagger_master_ss.webp",
+         "fileurl":"https://livemovies.club/terraria/Players/dagger_master.zip",
+         "type":"Player",
+         "extension":"plr",
+         "description":"A character in stardust armor, with only a staff of blade as a weapon. In addition, there are only two items in the inventory, a potion of return and a rainbow cursor."
       }
    ]
 }
